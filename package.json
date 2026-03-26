@@ -1,0 +1,17 @@
+{
+  "name": "assignment_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deleteUser.js",
+  "scripts": {
+    "start": "node registerUser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "mongodb": "^7.1.1"
+  }
+}

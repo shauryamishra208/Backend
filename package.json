@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.4.1",
+    "path": "^0.12.7"
+  },
+  "name": "assignment_8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Problem1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Problem1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
